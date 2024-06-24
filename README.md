@@ -1,8 +1,8 @@
-Proyecto Lista de Reproduccion
-Integrantes:
-Odalis Garcia Pincay - Godalis64@gmail.com
-Emily Mata - eorma_2000@hotmail.com
-
+**Proyecto Lista de Reproduccion
+****Integrantes:
+****Odalis Garcia Pincay - Godalis64@gmail.com
+****Emily Mata - eorma_2000@hotmail.com
+**
 **Objetivo
 
 Diseñar e implementar un reproductor de música local, centrado en la reproducción de
