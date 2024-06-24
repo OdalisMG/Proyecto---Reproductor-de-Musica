@@ -35,6 +35,3 @@ Entregables:
 ○ css (estilos)
 ○ src (javascript)
 ○ Archivos html
-● Una integrante del equipo enviar liga del repositorio al correo
-tutoria@commercemind.education
-● Fecha de entrega 14 de febrero 2024 24hrs
